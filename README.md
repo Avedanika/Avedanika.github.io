@@ -1,2 +1,4 @@
-# Avedanika.github.io
-## ක්‍රියාකාරී හදවතක්
+<p align="center">
+ #ක්‍රියාකාරී හදවතක්
+
+</p>
